@@ -1,6 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: theme: no-style-please
 plugins:
 - jekyll-remote-theme
 title: Mariano Aponte
-description: MSc student of Cybersecurity
-show_downloads: false
