@@ -1,4 +1,4 @@
-## Mariano Aponte
+# Mariano Aponte
 MSc student of Cybersecurity. Born in 2001. Based in Castellammare di Stabia, Campania, Italy. For privacy reasons emails and phone number will not be posted here. To get in touch please text me on [LinkedIn](http://linkedin.com/in/marianoktm).
 
 ## Work Experience
