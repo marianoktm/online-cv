@@ -1,4 +1,2 @@
-remote_theme: theme: no-style-please
-plugins:
-- jekyll-remote-theme
-title: Mariano Aponte
+theme: no-style-please
+title: Mariano Aponte CV
