@@ -12,12 +12,10 @@ MSc student of Cybersecurity. Born in 2001. Based in Castellammare di Stabia, Ca
 - Relevant coursework: Modern Cryptography and Cryptanalysis, Penetration Testing and Ethical Hacking, Digital Forensics, Secure Programming, Data Security and Blockchains, IoT Security.
 
 **Bachelor's of Science in Computer Science** @ Parthenope University of Naples (September 2019 - April 2024)
-- Final Grade: 104/110
 - Thesis: GPGPU virtualization: design, development and evaluation of HPC, IoT and edge computing middleware ([read here](https://github.com/marianoktm/BSc-Thesis))
 - Relevant coursework: Computer Architectures, Programming Principles, Algorithm Design and Analysis, Database Design, Operating Systems, Software Engineering, Networking, Parallel Computing, Image Processing.
 
 **High School Diploma in Business Administration** @ IT Luigi Sturzo (September 2014 - July 2019)
-- Final Grade: 100/100
 - Relevant coursework: Financial Accounting, Financial Accounting, Micro and Macroeconomics, Laws.
 
 ## Contributions
