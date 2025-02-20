@@ -1,5 +1,5 @@
 # Mariano Aponte
-**MSc student of Cybersecurity.** Born in 2001. Based in Castellammare di Stabia, Campania, Italy. For privacy reasons emails and phone number will not be posted here. To get in touch please text me on [LinkedIn](http://linkedin.com/in/marianoktm).
+**MSc student in Cybersecurity** at Unisa and BSc in Computer Science from Uniparthenope. Born in 2001. Based in Castellammare di Stabia, Campania, Italy. For privacy reasons emails and phone number will not be posted here. To get in touch please text me on [LinkedIn](http://linkedin.com/in/marianoktm).
 
 ## Work Experience
 **HPC Research Intern** @ HPSC Smart Lab, Parthenope University of Naples (September 2023 - January 2024)
