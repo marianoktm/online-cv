@@ -28,7 +28,7 @@
 ## Interesting University Projects
 **[Arduino-NFT-PUF](https://github.com/marianoktm/arduino-nft-puf)** (2025)
 - Implemented an efficient and secure approach at IoT devices fingerprinting and ownership through the combination of SRAM-PUF and Ethereum NFTs.
-- Tech Stack: C, Solidity, Hardhat, Web3js.
+- Tech Stack: C, HTML, CSS, Javascript, Web3.js, Solidity, Hardhat.
 
 **[Twitter 2](https://github.com/marianoktm/PROG3-Uniparthenope)** (2022)
 - Designed and developed an easily maintainable Java demonstrative application through the implementation of SOLID Principles and Design Patterns.
@@ -59,4 +59,4 @@
 
 ---
 
-Last update: 20 February 2025
+Last update: 08 March 2025
